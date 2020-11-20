@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's me Ali Alshaibani
+
+[![HitCount](http://hits.dwyl.com/alshaibaniali/{project}.svg)](http://hits.dwyl.com/alshaibaniali/{project})
 
 <!--
 **alshaibaniali/alshaibaniali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
