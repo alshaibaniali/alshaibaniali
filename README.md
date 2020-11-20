@@ -2,17 +2,13 @@
 
 [![HitCount](http://hits.dwyl.com/alshaibaniali/{project}.svg)](http://hits.dwyl.com/alshaibaniali/{project})
 
-<!--
-**alshaibaniali/alshaibaniali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gist About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎤 I am a passonate Web and Mobile app Developer 
+- 🔭 I’m currently working on Frontend and Backend Development
+- 🌱 Learning everyday, I’m currently learning Artificial Intelligence and Machine Learning
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 💬 Actively writing blogs @ http://www.ali-alshaibani.com/
+- 📫 How to reach me: mailto:ali713626792@gmail.com
+- ⚡ Fun fact: Coding
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
