@@ -1,4 +1,4 @@
-### Hi there 👋 It's me Ali Alshaibani
+### Hi there, It's me Ali Alshaibani 👋
 
 [![HitCount](http://hits.dwyl.com/alshaibaniali/{project}.svg)](http://hits.dwyl.com/alshaibaniali/{project})
 
