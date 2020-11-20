@@ -10,5 +10,5 @@ Gist About me:
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Actively writing blogs @ http://www.ali-alshaibani.com/
 - 📫 How to reach me: Mailto: ali713626792@gmail.com
-- ⚡ Fun fact: Coding
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+- ⚡ Fun fact: Coding
