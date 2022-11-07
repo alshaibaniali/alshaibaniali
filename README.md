@@ -9,6 +9,6 @@ Gist About me:
 - 🌱 Learning everyday, I’m currently learning Artificial Intelligence and Machine Learning
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Actively writing blogs @ http://www.ali-alshaibani.com/
-- 📫 How to reach me: Mail-To: ali713626792@gmail.com
+- 📫 How to reach me: Mail-To: alimotaresh@gmail.com
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 - ⚡ Fun fact: Coding
